@@ -1,0 +1,1673 @@
+[
+  {
+    "id": 217,
+    "name": "TP. HCM",
+    "longitude": 106.629664,
+    "latitude": 10.823099,
+    "url_rewrite_name": "ho-chi-minh",
+    "districts": [
+      {
+        "province_id": 217,
+        "name": "Quận 1",
+        "url_rewrite_name": "quan-1",
+        "district_id": 1
+      },
+      {
+        "province_id": 217,
+        "name": "Gò Vấp",
+        "url_rewrite_name": "quan-go-vap",
+        "district_id": 2
+      },
+      {
+        "province_id": 217,
+        "name": "Quận 2",
+        "url_rewrite_name": "quan-2",
+        "district_id": 4
+      },
+      {
+        "province_id": 217,
+        "name": "Quận 3",
+        "url_rewrite_name": "quan-3",
+        "district_id": 5
+      },
+      {
+        "province_id": 217,
+        "name": "Quận 4",
+        "url_rewrite_name": "quan-4",
+        "district_id": 6
+      },
+      {
+        "province_id": 217,
+        "name": "Quận 5",
+        "url_rewrite_name": "quan-5",
+        "district_id": 7
+      },
+      {
+        "province_id": 217,
+        "name": "Quận 6",
+        "url_rewrite_name": "quan-6",
+        "district_id": 8
+      },
+      {
+        "province_id": 217,
+        "name": "Quận 7",
+        "url_rewrite_name": "quan-7",
+        "district_id": 9
+      },
+      {
+        "province_id": 217,
+        "name": "Quận 8",
+        "url_rewrite_name": "quan-8",
+        "district_id": 10
+      },
+      {
+        "province_id": 217,
+        "name": "Quận 9",
+        "url_rewrite_name": "quan-9",
+        "district_id": 11
+      },
+      {
+        "province_id": 217,
+        "name": "Quận 10",
+        "url_rewrite_name": "quan-10",
+        "district_id": 12
+      },
+      {
+        "province_id": 217,
+        "name": "Quận 11",
+        "url_rewrite_name": "quan-11",
+        "district_id": 13
+      },
+      {
+        "province_id": 217,
+        "name": "Quận 12",
+        "url_rewrite_name": "quan-12",
+        "district_id": 14
+      },
+      {
+        "province_id": 217,
+        "name": "Bình Thạnh",
+        "url_rewrite_name": "quan-binh-thanh",
+        "district_id": 15
+      },
+      {
+        "province_id": 217,
+        "name": "Tân Bình",
+        "url_rewrite_name": "quan-tan-binh",
+        "district_id": 16
+      },
+      {
+        "province_id": 217,
+        "name": "Phú Nhuận",
+        "url_rewrite_name": "quan-phu-nhuan",
+        "district_id": 17
+      },
+      {
+        "province_id": 217,
+        "name": "Bình Tân",
+        "url_rewrite_name": "quan-binh-tan",
+        "district_id": 18
+      },
+      {
+        "province_id": 217,
+        "name": "Tân Phú",
+        "url_rewrite_name": "quan-tan-phu",
+        "district_id": 19
+      },
+      {
+        "province_id": 217,
+        "name": "Thành Phố Thủ Đức",
+        "url_rewrite_name": "quan-thu-duc",
+        "district_id": 693
+      },
+      {
+        "province_id": 217,
+        "name": "Củ Chi",
+        "url_rewrite_name": "cu-chi",
+        "district_id": 694
+      },
+      {
+        "province_id": 217,
+        "name": "Hóc Môn",
+        "url_rewrite_name": "hoc-mon",
+        "district_id": 695
+      },
+      {
+        "province_id": 217,
+        "name": "Bình Chánh",
+        "url_rewrite_name": "binh-chanh",
+        "district_id": 696
+      },
+      {
+        "province_id": 217,
+        "name": "Cần Giờ",
+        "url_rewrite_name": "can-gio",
+        "district_id": 698
+      },
+      {
+        "province_id": 217,
+        "name": "Nhà Bè",
+        "url_rewrite_name": "huyen-nha-be",
+        "district_id": 699
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Hà Nội",
+    "longitude": 105.85,
+    "latitude": 21.033333,
+    "url_rewrite_name": "ha-noi",
+    "districts": [
+      {
+        "province_id": 218,
+        "name": "Ba Đình",
+        "url_rewrite_name": "quan-ba-dinh",
+        "district_id": 20
+      },
+      {
+        "province_id": 218,
+        "name": "Cầu Giấy",
+        "url_rewrite_name": "quan-cau-giay",
+        "district_id": 21
+      },
+      {
+        "province_id": 218,
+        "name": "Đống Đa",
+        "url_rewrite_name": "quan-dong-da",
+        "district_id": 22
+      },
+      {
+        "province_id": 218,
+        "name": "Hà Đông",
+        "url_rewrite_name": "quan-ha-dong",
+        "district_id": 23
+      },
+      {
+        "province_id": 218,
+        "name": "Hai Bà Trưng",
+        "url_rewrite_name": "quan-hai-ba-trung",
+        "district_id": 24
+      },
+      {
+        "province_id": 218,
+        "name": "Hoàn Kiếm",
+        "url_rewrite_name": "quan-hoan-kiem",
+        "district_id": 25
+      },
+      {
+        "province_id": 218,
+        "name": "Hoàng Mai",
+        "url_rewrite_name": "quan-hoang-mai",
+        "district_id": 26
+      },
+      {
+        "province_id": 218,
+        "name": "Long Biên",
+        "url_rewrite_name": "quan-long-bien",
+        "district_id": 27
+      },
+      {
+        "province_id": 218,
+        "name": "Tây Hồ",
+        "url_rewrite_name": "quan-tay-ho",
+        "district_id": 28
+      },
+      {
+        "province_id": 218,
+        "name": "Thanh Xuân",
+        "url_rewrite_name": "quan-thanh-xuan",
+        "district_id": 29
+      },
+      {
+        "province_id": 218,
+        "name": "Gia Lâm",
+        "url_rewrite_name": "gia-lam",
+        "district_id": 678
+      },
+      {
+        "province_id": 218,
+        "name": "Hoài Đức",
+        "url_rewrite_name": "hoai-duc",
+        "district_id": 679
+      },
+      {
+        "province_id": 218,
+        "name": "Thanh Trì",
+        "url_rewrite_name": "thanh-tri",
+        "district_id": 688
+      },
+      {
+        "province_id": 218,
+        "name": "Thường Tín",
+        "url_rewrite_name": "thuong-tin",
+        "district_id": 689
+      },
+      {
+        "province_id": 218,
+        "name": "Bắc Từ Liêm",
+        "url_rewrite_name": "bac-tu-liem",
+        "district_id": 690
+      },
+      {
+        "province_id": 218,
+        "name": "Nam Từ Liêm",
+        "url_rewrite_name": "quan-nam-tu-liem",
+        "district_id": 945
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "name": "Đà Nẵng",
+    "longitude": 108.214897,
+    "latitude": 16.051571,
+    "url_rewrite_name": "da-nang",
+    "districts": [
+      {
+        "province_id": 219,
+        "name": "Quận Cẩm Lệ",
+        "url_rewrite_name": "quan-cam-le",
+        "district_id": 30
+      },
+      {
+        "province_id": 219,
+        "name": "Quận Hải Châu",
+        "url_rewrite_name": "quan-hai-chau",
+        "district_id": 31
+      },
+      {
+        "province_id": 219,
+        "name": "Quận Liên Chiểu",
+        "url_rewrite_name": "quan-lien-chieu",
+        "district_id": 32
+      },
+      {
+        "province_id": 219,
+        "name": "Quận Ngũ Hành Sơn",
+        "url_rewrite_name": "quan-ngu-hanh-son",
+        "district_id": 33
+      },
+      {
+        "province_id": 219,
+        "name": "Quận Sơn Trà",
+        "url_rewrite_name": "quan-son-tra",
+        "district_id": 34
+      },
+      {
+        "province_id": 219,
+        "name": "Quận Thanh Khê",
+        "url_rewrite_name": "quan-thanh-khe",
+        "district_id": 35
+      },
+      {
+        "province_id": 219,
+        "name": "Hòa Vang",
+        "url_rewrite_name": "hoa-vang",
+        "district_id": 158
+      },
+      {
+        "province_id": 219,
+        "name": "Hoàng Sa",
+        "url_rewrite_name": "hoang-sa",
+        "district_id": 159
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "name": "Cần Thơ",
+    "longitude": 105.783798,
+    "latitude": 10.03183,
+    "url_rewrite_name": "can-tho",
+    "districts": [
+      {
+        "province_id": 221,
+        "name": "Quận Ninh Kiều",
+        "url_rewrite_name": "quan-ninh-kieu",
+        "district_id": 43
+      },
+      {
+        "province_id": 221,
+        "name": "Quận Bình Thủy",
+        "url_rewrite_name": "quan-binh-thuy",
+        "district_id": 44
+      },
+      {
+        "province_id": 221,
+        "name": "Quận Cái Răng",
+        "url_rewrite_name": "quan-cai-rang",
+        "district_id": 45
+      },
+      {
+        "province_id": 221,
+        "name": "Quận Ô Môn",
+        "url_rewrite_name": "quan-o-mon",
+        "district_id": 46
+      },
+      {
+        "province_id": 221,
+        "name": "Quận Thốt Nốt",
+        "url_rewrite_name": "quan-thot-not",
+        "district_id": 47
+      },
+      {
+        "province_id": 221,
+        "name": "Hưng Phú",
+        "url_rewrite_name": "hung-phu",
+        "district_id": 117
+      },
+      {
+        "province_id": 221,
+        "name": "Phong Điền",
+        "url_rewrite_name": "phong-dien",
+        "district_id": 118
+      },
+      {
+        "province_id": 221,
+        "name": "Cờ Đỏ",
+        "url_rewrite_name": "co-do",
+        "district_id": 119
+      },
+      {
+        "province_id": 221,
+        "name": "Thới Lai",
+        "url_rewrite_name": "thoi-lai",
+        "district_id": 120
+      },
+      {
+        "province_id": 221,
+        "name": "Vĩnh Thạnh",
+        "url_rewrite_name": "vinh-thanh",
+        "district_id": 121
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "name": "Hải Phòng",
+    "longitude": 106.679802,
+    "latitude": 20.861361,
+    "url_rewrite_name": "hai-phong",
+    "districts": [
+      {
+        "province_id": 220,
+        "name": "Quận Dương Kinh",
+        "url_rewrite_name": "quan-duong-kinh",
+        "district_id": 36
+      },
+      {
+        "province_id": 220,
+        "name": "Quận Đồ Sơn",
+        "url_rewrite_name": "quan-do-son",
+        "district_id": 37
+      },
+      {
+        "province_id": 220,
+        "name": "Quận Hải An",
+        "url_rewrite_name": "quan-hai-an",
+        "district_id": 38
+      },
+      {
+        "province_id": 220,
+        "name": "Quận Kiến An",
+        "url_rewrite_name": "quan-kien-an",
+        "district_id": 39
+      },
+      {
+        "province_id": 220,
+        "name": "Quận Hồng Bàng",
+        "url_rewrite_name": "quan-hong-bang",
+        "district_id": 40
+      },
+      {
+        "province_id": 220,
+        "name": "Quận Ngô Quyền",
+        "url_rewrite_name": "quan-ngo-quyen",
+        "district_id": 41
+      },
+      {
+        "province_id": 220,
+        "name": "Quận Lê Chân",
+        "url_rewrite_name": "quan-le-chan",
+        "district_id": 42
+      },
+      {
+        "province_id": 220,
+        "name": "An Dương",
+        "url_rewrite_name": "an-duong",
+        "district_id": 109
+      },
+      {
+        "province_id": 220,
+        "name": "An Lão",
+        "url_rewrite_name": "an-lao",
+        "district_id": 110
+      },
+      {
+        "province_id": 220,
+        "name": "Bạch Long Vĩ",
+        "url_rewrite_name": "bach-long-vi",
+        "district_id": 111
+      },
+      {
+        "province_id": 220,
+        "name": "Cát Hải",
+        "url_rewrite_name": "cat-hai",
+        "district_id": 112
+      },
+      {
+        "province_id": 220,
+        "name": "Kiến Thụy",
+        "url_rewrite_name": "kien-thuy",
+        "district_id": 113
+      },
+      {
+        "province_id": 220,
+        "name": "Tiên Lãng",
+        "url_rewrite_name": "tien-lang",
+        "district_id": 114
+      },
+      {
+        "province_id": 220,
+        "name": "Vĩnh Bảo",
+        "url_rewrite_name": "vinh-bao",
+        "district_id": 115
+      },
+      {
+        "province_id": 220,
+        "name": "Thủy Nguyên",
+        "url_rewrite_name": "thuy-nguyen",
+        "district_id": 116
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "name": "Huế",
+    "longitude": 107.56235,
+    "latitude": 16.4498,
+    "url_rewrite_name": "hue",
+    "districts": [
+      {
+        "province_id": 273,
+        "name": "Tp. Huế",
+        "url_rewrite_name": "tp-hue",
+        "district_id": 301
+      },
+      {
+        "province_id": 273,
+        "name": "Thị xã Hương Thủy",
+        "url_rewrite_name": "thi-xa-huong-thuy",
+        "district_id": 302
+      },
+      {
+        "province_id": 273,
+        "name": "A Lưới",
+        "url_rewrite_name": "a-luoi",
+        "district_id": 303
+      },
+      {
+        "province_id": 273,
+        "name": "Hương Trà",
+        "url_rewrite_name": "huong-tra",
+        "district_id": 304
+      },
+      {
+        "province_id": 273,
+        "name": "Nam Đông",
+        "url_rewrite_name": "nam-dong",
+        "district_id": 305
+      },
+      {
+        "province_id": 273,
+        "name": "Phong Điền",
+        "url_rewrite_name": "phong-dien",
+        "district_id": 306
+      },
+      {
+        "province_id": 273,
+        "name": "Phú Lộc",
+        "url_rewrite_name": "phu-loc",
+        "district_id": 307
+      },
+      {
+        "province_id": 273,
+        "name": "Phú Vang",
+        "url_rewrite_name": "phu-vang",
+        "district_id": 308
+      },
+      {
+        "province_id": 273,
+        "name": "Quảng Điền",
+        "url_rewrite_name": "quang-dien",
+        "district_id": 309
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "name": "Khánh Hoà",
+    "longitude": 109.196749,
+    "latitude": 12.238791,
+    "url_rewrite_name": "khanh-hoa",
+    "districts": [
+      {
+        "province_id": 248,
+        "name": "Tp. Nha Trang",
+        "url_rewrite_name": "tp-nha-trang",
+        "district_id": 386
+      },
+      {
+        "province_id": 248,
+        "name": "Tp. Cam Ranh",
+        "url_rewrite_name": "thi-xa-cam-ranh",
+        "district_id": 387
+      },
+      {
+        "province_id": 248,
+        "name": "Vạn Ninh",
+        "url_rewrite_name": "van-ninh",
+        "district_id": 388
+      },
+      {
+        "province_id": 248,
+        "name": "Ninh Hòa",
+        "url_rewrite_name": "ninh-hoa",
+        "district_id": 389
+      },
+      {
+        "province_id": 248,
+        "name": "Diên Khánh",
+        "url_rewrite_name": "dien-khanh",
+        "district_id": 390
+      },
+      {
+        "province_id": 248,
+        "name": "Khánh Vĩnh",
+        "url_rewrite_name": "khanh-vinh",
+        "district_id": 391
+      },
+      {
+        "province_id": 248,
+        "name": "Khánh Sơn",
+        "url_rewrite_name": "khanh-son",
+        "district_id": 392
+      },
+      {
+        "province_id": 248,
+        "name": "Cam Lâm",
+        "url_rewrite_name": "cam-lam",
+        "district_id": 393
+      },
+      {
+        "province_id": 248,
+        "name": "Trường Sa",
+        "url_rewrite_name": "truong-sa",
+        "district_id": 394
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Đồng Nai",
+    "longitude": 106.861597,
+    "latitude": 10.958743,
+    "url_rewrite_name": "dong-nai",
+    "districts": [
+      {
+        "province_id": 222,
+        "name": "Định Quán",
+        "url_rewrite_name": "dinh-quan",
+        "district_id": 48
+      },
+      {
+        "province_id": 222,
+        "name": "Long Thành",
+        "url_rewrite_name": "long-thanh",
+        "district_id": 49
+      },
+      {
+        "province_id": 222,
+        "name": "Xuân Lộc",
+        "url_rewrite_name": "xuan-loc",
+        "district_id": 50
+      },
+      {
+        "province_id": 222,
+        "name": "Vĩnh Cửu",
+        "url_rewrite_name": "vinh-cuu",
+        "district_id": 51
+      },
+      {
+        "province_id": 222,
+        "name": "Trảng Bom",
+        "url_rewrite_name": "trang-bom",
+        "district_id": 52
+      },
+      {
+        "province_id": 222,
+        "name": "Thống Nhất",
+        "url_rewrite_name": "thong-nhat",
+        "district_id": 53
+      },
+      {
+        "province_id": 222,
+        "name": "Nhơn Trạch",
+        "url_rewrite_name": "nhon-trach",
+        "district_id": 55
+      },
+      {
+        "province_id": 222,
+        "name": "Cẩm Mỹ",
+        "url_rewrite_name": "cam-my",
+        "district_id": 56
+      },
+      {
+        "province_id": 222,
+        "name": "Tp. Biên Hòa",
+        "url_rewrite_name": "tp-bien-hoa",
+        "district_id": 57
+      },
+      {
+        "province_id": 222,
+        "name": "Thị xã Long Khánh",
+        "url_rewrite_name": "thi-xa-long-khanh",
+        "district_id": 66
+      },
+      {
+        "province_id": 222,
+        "name": "Tân Phú",
+        "url_rewrite_name": "tan-phu",
+        "district_id": 67
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Nghệ An",
+    "longitude": 105.681333,
+    "latitude": 18.679585,
+    "url_rewrite_name": "nghe-an",
+    "districts": [
+      {
+        "province_id": 257,
+        "name": "Tp. Vinh",
+        "url_rewrite_name": "tp-vinh",
+        "district_id": 178
+      },
+      {
+        "province_id": 257,
+        "name": "Thị xã Cửa Lò",
+        "url_rewrite_name": "thi-xa-cua-lo",
+        "district_id": 179
+      },
+      {
+        "province_id": 257,
+        "name": "Thị xã Thái Hòa",
+        "url_rewrite_name": "thi-xa-thai-hoa",
+        "district_id": 180
+      },
+      {
+        "province_id": 257,
+        "name": "Anh Sơn",
+        "url_rewrite_name": "anh-son",
+        "district_id": 181
+      },
+      {
+        "province_id": 257,
+        "name": "Con Cuông",
+        "url_rewrite_name": "con-cuong",
+        "district_id": 182
+      },
+      {
+        "province_id": 257,
+        "name": "Diễn Châu",
+        "url_rewrite_name": "dien-chau",
+        "district_id": 183
+      },
+      {
+        "province_id": 257,
+        "name": "Đô Lương",
+        "url_rewrite_name": "do-luong",
+        "district_id": 184
+      },
+      {
+        "province_id": 257,
+        "name": "Hưng Nguyên",
+        "url_rewrite_name": "hung-nguyen",
+        "district_id": 185
+      },
+      {
+        "province_id": 257,
+        "name": "Quỳ Châu",
+        "url_rewrite_name": "quy-chau",
+        "district_id": 186
+      },
+      {
+        "province_id": 257,
+        "name": "Kỳ Sơn",
+        "url_rewrite_name": "ky-son",
+        "district_id": 187
+      },
+      {
+        "province_id": 257,
+        "name": "Nam Đàn",
+        "url_rewrite_name": "nam-dan",
+        "district_id": 188
+      },
+      {
+        "province_id": 257,
+        "name": "Nghi Lộc",
+        "url_rewrite_name": "nghi-loc",
+        "district_id": 189
+      },
+      {
+        "province_id": 257,
+        "name": "Nghĩa Đàn",
+        "url_rewrite_name": "nghia-dan",
+        "district_id": 190
+      },
+      {
+        "province_id": 257,
+        "name": "Quế Phong",
+        "url_rewrite_name": "que-phong",
+        "district_id": 191
+      },
+      {
+        "province_id": 257,
+        "name": "Quỳ Hợp",
+        "url_rewrite_name": "quy-hop",
+        "district_id": 192
+      },
+      {
+        "province_id": 257,
+        "name": "Quỳnh Lưu",
+        "url_rewrite_name": "quynh-luu",
+        "district_id": 193
+      },
+      {
+        "province_id": 257,
+        "name": "Tân Kỳ",
+        "url_rewrite_name": "tan-ky",
+        "district_id": 194
+      },
+      {
+        "province_id": 257,
+        "name": "Thanh Chương",
+        "url_rewrite_name": "thanh-chuong",
+        "district_id": 195
+      },
+      {
+        "province_id": 257,
+        "name": "Tương Dương",
+        "url_rewrite_name": "tuong-duong",
+        "district_id": 196
+      },
+      {
+        "province_id": 257,
+        "name": "Yên Thành",
+        "url_rewrite_name": "yen-thanh",
+        "district_id": 197
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "name": "Vũng Tàu",
+    "longitude": 107.084034,
+    "latitude": 10.345413,
+    "url_rewrite_name": "vung-tau",
+    "districts": [
+      {
+        "province_id": 223,
+        "name": "Tp. Vũng Tàu",
+        "url_rewrite_name": "tp-vung-tau",
+        "district_id": 58
+      },
+      {
+        "province_id": 223,
+        "name": "Tp. Bà Rịa",
+        "url_rewrite_name": "tp-ba-ria",
+        "district_id": 59
+      },
+      {
+        "province_id": 223,
+        "name": "Huyện Châu Đức",
+        "url_rewrite_name": "huyen-chau-duc",
+        "district_id": 60
+      },
+      {
+        "province_id": 223,
+        "name": "Huyện Côn Đảo",
+        "url_rewrite_name": "huyen-con-dao",
+        "district_id": 61
+      },
+      {
+        "province_id": 223,
+        "name": "Huyện Long Điền",
+        "url_rewrite_name": "huyen-long-dien",
+        "district_id": 62
+      },
+      {
+        "province_id": 223,
+        "name": "Huyện Đất Đỏ",
+        "url_rewrite_name": "huyen-dat-do",
+        "district_id": 63
+      },
+      {
+        "province_id": 223,
+        "name": "Huyện Tân Thành",
+        "url_rewrite_name": "huyen-tan-thanh",
+        "district_id": 64
+      },
+      {
+        "province_id": 223,
+        "name": "Huyện Xuyên Mộc",
+        "url_rewrite_name": "huyen-xuyen-moc",
+        "district_id": 65
+      },
+      {
+        "province_id": 223,
+        "name": "Huyện Long Sơn",
+        "url_rewrite_name": "huyen-long-son",
+        "district_id": 702
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "name": "An Giang",
+    "longitude": 105.125896,
+    "latitude": 10.521584,
+    "url_rewrite_name": "an-giang",
+    "districts": [
+      {
+        "province_id": 224,
+        "name": "Tp. Long Xuyên",
+        "url_rewrite_name": "tp-long-xuyen",
+        "district_id": 68
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "name": "Bạc Liêu",
+    "longitude": 105.752154,
+    "latitude": 9.260353,
+    "url_rewrite_name": "bac-lieu",
+    "districts": [
+      {
+        "province_id": 225,
+        "name": "Thị xã Bạc Liêu",
+        "url_rewrite_name": "thi-xa-bac-lieu",
+        "district_id": 160
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Bắc Giang",
+    "longitude": 106.62913,
+    "latitude": 21.301495,
+    "url_rewrite_name": "bac-giang",
+    "districts": [
+      {
+        "province_id": 227,
+        "name": "Tp. Bắc Giang",
+        "url_rewrite_name": "tp-bac-giang",
+        "district_id": 206
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Bắc Ninh",
+    "longitude": 106.056,
+    "latitude": 21.183901,
+    "url_rewrite_name": "bac-ninh",
+    "districts": [
+      {
+        "province_id": 228,
+        "name": "Tp. Bắc Ninh",
+        "url_rewrite_name": "tp-bac-ninh",
+        "district_id": 216
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "name": "Bến Tre",
+    "longitude": 106.440587,
+    "latitude": 10.108155,
+    "url_rewrite_name": "ben-tre",
+    "districts": [
+      {
+        "province_id": 229,
+        "name": "Tp. Bến Tre",
+        "url_rewrite_name": "tp-ben-tre",
+        "district_id": 149
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Bình Dương",
+    "longitude": 106.674715,
+    "latitude": 10.981192,
+    "url_rewrite_name": "binh-duong",
+    "districts": [
+      {
+        "province_id": 230,
+        "name": "Thị xã Thủ Dầu Một",
+        "url_rewrite_name": "thi-xa-thu-dau-mot",
+        "district_id": 122
+      },
+      {
+        "province_id": 230,
+        "name": "Bến Cát",
+        "url_rewrite_name": "ben-cat",
+        "district_id": 123
+      },
+      {
+        "province_id": 230,
+        "name": "Dầu Tiếng",
+        "url_rewrite_name": "dau-tieng",
+        "district_id": 124
+      },
+      {
+        "province_id": 230,
+        "name": "Tân Uyên",
+        "url_rewrite_name": "tan-uyen",
+        "district_id": 125
+      },
+      {
+        "province_id": 230,
+        "name": "Phú Giáo",
+        "url_rewrite_name": "phu-giao",
+        "district_id": 126
+      },
+      {
+        "province_id": 230,
+        "name": "Thuận An",
+        "url_rewrite_name": "thuan-an",
+        "district_id": 127
+      },
+      {
+        "province_id": 230,
+        "name": "Dĩ An",
+        "url_rewrite_name": "di-an",
+        "district_id": 128
+      },
+      {
+        "province_id": 230,
+        "name": "Bàu Bàng",
+        "url_rewrite_name": "bau-bang",
+        "district_id": 824
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "name": "Bình Định",
+    "longitude": 109.219663,
+    "latitude": 13.782967,
+    "url_rewrite_name": "binh-dinh",
+    "districts": [
+      {
+        "province_id": 231,
+        "name": "Tp. Qui Nhơn",
+        "url_rewrite_name": "tp-qui-nhon",
+        "district_id": 167
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "name": "Bình Phước",
+    "longitude": 106.723464,
+    "latitude": 11.751189,
+    "url_rewrite_name": "binh-phuoc",
+    "districts": [
+      {
+        "province_id": 232,
+        "name": "Thị xã Đồng Xoài",
+        "url_rewrite_name": "thi-xa-dong-xoai",
+        "district_id": 129
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "name": "Bình Thuận",
+    "longitude": 108.261478,
+    "latitude": 10.98046,
+    "url_rewrite_name": "binh-thuan",
+    "districts": [
+      {
+        "province_id": 233,
+        "name": "Tp. Phan Thiết",
+        "url_rewrite_name": "tp-phan-thiet",
+        "district_id": 139
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "name": "Cà Mau",
+    "longitude": 105.15,
+    "latitude": 9.183333,
+    "url_rewrite_name": "ca-mau",
+    "districts": [
+      {
+        "province_id": 234,
+        "name": "Tp. Cà Mau",
+        "url_rewrite_name": "tp-ca-mau",
+        "district_id": 237
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "name": "Đắk Lắk",
+    "longitude": 108.038248,
+    "latitude": 12.666194,
+    "url_rewrite_name": "dak-lak",
+    "districts": [
+      {
+        "province_id": 236,
+        "name": "Tp. Buôn Ma Thuột",
+        "url_rewrite_name": "buon-ma-thuot",
+        "district_id": 79
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "name": "Điện Biên",
+    "longitude": 103.035585,
+    "latitude": 21.409427,
+    "url_rewrite_name": "dien-bien",
+    "districts": [
+      {
+        "province_id": 238,
+        "name": "Điện Biên Phủ",
+        "url_rewrite_name": "tp-dien-bien-phu",
+        "district_id": 347
+      },
+      {
+        "province_id": 238,
+        "name": "Thị xã Mường Lay",
+        "url_rewrite_name": "thi-xa-muong-lay",
+        "district_id": 348
+      },
+      {
+        "province_id": 238,
+        "name": "Điện Biên",
+        "url_rewrite_name": "dien-bien",
+        "district_id": 349
+      },
+      {
+        "province_id": 238,
+        "name": "Điện Biên Đông",
+        "url_rewrite_name": "dien-bien-dong",
+        "district_id": 350
+      },
+      {
+        "province_id": 238,
+        "name": "Mường Ảng",
+        "url_rewrite_name": "muong-ang",
+        "district_id": 351
+      },
+      {
+        "province_id": 238,
+        "name": "Mường Chà",
+        "url_rewrite_name": "muong-cha",
+        "district_id": 352
+      },
+      {
+        "province_id": 238,
+        "name": "Mường Nhé",
+        "url_rewrite_name": "muong-nhe",
+        "district_id": 353
+      },
+      {
+        "province_id": 238,
+        "name": "Tủa Chùa",
+        "url_rewrite_name": "tua-chua",
+        "district_id": 354
+      },
+      {
+        "province_id": 238,
+        "name": "Tuần Giáo",
+        "url_rewrite_name": "tuan-giao",
+        "district_id": 355
+      },
+      {
+        "province_id": 238,
+        "name": "Nậm Pồ",
+        "url_rewrite_name": "nam-po",
+        "district_id": 1263
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "name": "Đồng Tháp",
+    "longitude": 105.634035,
+    "latitude": 10.454972,
+    "url_rewrite_name": "dong-thap",
+    "districts": [
+      {
+        "province_id": 239,
+        "name": "Tp. Cao Lãnh",
+        "url_rewrite_name": "tp-cao-lanh",
+        "district_id": 289
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Gia Lai",
+    "longitude": 108.237752,
+    "latitude": 13.773701,
+    "url_rewrite_name": "gia-lai",
+    "districts": [
+      {
+        "province_id": 240,
+        "name": "Tp. Pleiku",
+        "url_rewrite_name": "tp-pleiku",
+        "district_id": 322
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "name": "Hải Dương",
+    "longitude": 106.314554,
+    "latitude": 20.937341,
+    "url_rewrite_name": "hai-duong",
+    "districts": [
+      {
+        "province_id": 244,
+        "name": "Tp. Hải Dương",
+        "url_rewrite_name": "tp-hai-duong",
+        "district_id": 310
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Hậu Giang",
+    "longitude": 105.641253,
+    "latitude": 9.757898,
+    "url_rewrite_name": "hau-giang",
+    "districts": [
+      {
+        "province_id": 245,
+        "name": "Thành Phố Vị Thanh",
+        "url_rewrite_name": "thanh-pho-vi-thanh",
+        "district_id": 405
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "name": "Hưng Yên",
+    "longitude": 106.016997,
+    "latitude": 20.852571,
+    "url_rewrite_name": "hung-yen",
+    "districts": [
+      {
+        "province_id": 247,
+        "name": "Tp. Hưng Yên",
+        "url_rewrite_name": "tp-hung-yen",
+        "district_id": 395
+      },
+      {
+        "province_id": 247,
+        "name": "Ân Thi",
+        "url_rewrite_name": "an-thi",
+        "district_id": 396
+      },
+      {
+        "province_id": 247,
+        "name": "Khoái Châu",
+        "url_rewrite_name": "khoai-chau",
+        "district_id": 397
+      },
+      {
+        "province_id": 247,
+        "name": "Kim Động",
+        "url_rewrite_name": "kim-dong",
+        "district_id": 398
+      },
+      {
+        "province_id": 247,
+        "name": "Mỹ Hào",
+        "url_rewrite_name": "my-hao",
+        "district_id": 399
+      },
+      {
+        "province_id": 247,
+        "name": "Phù Cừ",
+        "url_rewrite_name": "phu-cu",
+        "district_id": 400
+      },
+      {
+        "province_id": 247,
+        "name": "Tiên Lữ",
+        "url_rewrite_name": "tien-lu",
+        "district_id": 401
+      },
+      {
+        "province_id": 247,
+        "name": "Văn Giang",
+        "url_rewrite_name": "van-giang",
+        "district_id": 402
+      },
+      {
+        "province_id": 247,
+        "name": "Văn Lâm",
+        "url_rewrite_name": "van-lam",
+        "district_id": 403
+      },
+      {
+        "province_id": 247,
+        "name": "Yên Mỹ",
+        "url_rewrite_name": "yen-my",
+        "district_id": 404
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "name": "Kiên Giang",
+    "longitude": 105.125896,
+    "latitude": 9.824959,
+    "url_rewrite_name": "kien-giang",
+    "districts": [
+      {
+        "province_id": 249,
+        "name": "Tp. Rạch Giá",
+        "url_rewrite_name": "tp-rach-gia",
+        "district_id": 94
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Lâm Đồng",
+    "longitude": 108.458313,
+    "latitude": 11.940419,
+    "url_rewrite_name": "lam-dong",
+    "districts": [
+      {
+        "province_id": 254,
+        "name": "Tp. Đà Lạt",
+        "url_rewrite_name": "tp-da-lat",
+        "district_id": 246
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "name": "Long An",
+    "longitude": 106.205148,
+    "latitude": 10.685145,
+    "url_rewrite_name": "long-an",
+    "districts": [
+      {
+        "province_id": 255,
+        "name": "TP. Tân An",
+        "url_rewrite_name": "tp-tan-an",
+        "district_id": 703
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "name": "Nam Định",
+    "longitude": 106.168333,
+    "latitude": 20.42,
+    "url_rewrite_name": "nam-dinh",
+    "districts": [
+      {
+        "province_id": 256,
+        "name": "Tp. Nam Định",
+        "url_rewrite_name": "tp-nam-dinh",
+        "district_id": 527
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "name": "Ninh Thuận",
+    "longitude": 108.991207,
+    "latitude": 11.582568,
+    "url_rewrite_name": "ninh-thuan",
+    "districts": [
+      {
+        "province_id": 259,
+        "name": "Tp. Phan Rang-Tháp Chàm",
+        "url_rewrite_name": "tp-phan-rangthap-cham",
+        "district_id": 621
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "name": "Phú Yên",
+    "longitude": 109.295048,
+    "latitude": 13.105706,
+    "url_rewrite_name": "phu-yen",
+    "districts": [
+      {
+        "province_id": 261,
+        "name": "Tp. Tuy Hòa",
+        "url_rewrite_name": "tp-tuy-hoa",
+        "district_id": 599
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "name": "Quảng Bình",
+    "longitude": 106.598396,
+    "latitude": 17.465939,
+    "url_rewrite_name": "quang-binh",
+    "districts": [
+      {
+        "province_id": 262,
+        "name": "Tp. Đồng Hới",
+        "url_rewrite_name": "dong-hoi",
+        "district_id": 705
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "name": "Quảng Nam",
+    "longitude": 108.32644,
+    "latitude": 15.87723,
+    "url_rewrite_name": "quang-nam",
+    "districts": [
+      {
+        "province_id": 263,
+        "name": "Tp. Hội An",
+        "url_rewrite_name": "tp-hoi-an",
+        "district_id": 576
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "name": "Quảng Ngãi",
+    "longitude": 108.804415,
+    "latitude": 15.121387,
+    "url_rewrite_name": "quang-ngai",
+    "districts": [
+      {
+        "province_id": 264,
+        "name": "Tp. Quảng Ngãi",
+        "url_rewrite_name": "tp-quang-ngai",
+        "district_id": 561
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Quảng Ninh",
+    "longitude": 107.044807,
+    "latitude": 20.971198,
+    "url_rewrite_name": "quang-ninh",
+    "districts": [
+      {
+        "province_id": 265,
+        "name": "Tp. Hạ Long",
+        "url_rewrite_name": "tp-ha-long",
+        "district_id": 547
+      },
+      {
+        "province_id": 265,
+        "name": "Tp. Móng Cái",
+        "url_rewrite_name": "tp-mong-cai",
+        "district_id": 548
+      },
+      {
+        "province_id": 265,
+        "name": "Tp. Cẩm Phả",
+        "url_rewrite_name": "tp-cam-pha",
+        "district_id": 549
+      },
+      {
+        "province_id": 265,
+        "name": "Tp. Uông Bí",
+        "url_rewrite_name": "thi-xa-uong-bi",
+        "district_id": 550
+      },
+      {
+        "province_id": 265,
+        "name": "Ba Chẽ",
+        "url_rewrite_name": "ba-che",
+        "district_id": 551
+      },
+      {
+        "province_id": 265,
+        "name": "Bình Liêu",
+        "url_rewrite_name": "binh-lieu",
+        "district_id": 552
+      },
+      {
+        "province_id": 265,
+        "name": "Cô Tô",
+        "url_rewrite_name": "co-to",
+        "district_id": 553
+      },
+      {
+        "province_id": 265,
+        "name": "Đầm Hà",
+        "url_rewrite_name": "dam-ha",
+        "district_id": 554
+      },
+      {
+        "province_id": 265,
+        "name": "Đông Triều",
+        "url_rewrite_name": "dong-trieu",
+        "district_id": 555
+      },
+      {
+        "province_id": 265,
+        "name": "Hải Hà",
+        "url_rewrite_name": "hai-ha",
+        "district_id": 556
+      },
+      {
+        "province_id": 265,
+        "name": "Hoành Bồ",
+        "url_rewrite_name": "hoanh-bo",
+        "district_id": 557
+      },
+      {
+        "province_id": 265,
+        "name": "Tiên Yên",
+        "url_rewrite_name": "tien-yen",
+        "district_id": 558
+      },
+      {
+        "province_id": 265,
+        "name": "Vân Đồn",
+        "url_rewrite_name": "van-don",
+        "district_id": 559
+      },
+      {
+        "province_id": 265,
+        "name": "Thị Xã Quảng Yên",
+        "url_rewrite_name": "Quang-yen",
+        "district_id": 560
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "name": "Sóc Trăng",
+    "longitude": 105.973905,
+    "latitude": 9.602521,
+    "url_rewrite_name": "soc-trang",
+    "districts": [
+      {
+        "province_id": 267,
+        "name": "Tp. Sóc Trăng",
+        "url_rewrite_name": "tp-soc-trang",
+        "district_id": 516
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "name": "Tây Ninh",
+    "longitude": 106.11928,
+    "latitude": 11.367542,
+    "url_rewrite_name": "tay-ninh",
+    "districts": [
+      {
+        "province_id": 269,
+        "name": "Thành Phố Tây Ninh",
+        "url_rewrite_name": "thanh-pho-tay-ninh",
+        "district_id": 704
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "name": "Thái Bình",
+    "longitude": 106.336583,
+    "latitude": 20.446347,
+    "url_rewrite_name": "thai-binh",
+    "districts": [
+      {
+        "province_id": 270,
+        "name": "Tp. Thái Bình",
+        "url_rewrite_name": "tp-thai-binh",
+        "district_id": 497
+      },
+      {
+        "province_id": 270,
+        "name": "Đông Hưng",
+        "url_rewrite_name": "dong-hung",
+        "district_id": 498
+      },
+      {
+        "province_id": 270,
+        "name": "Hưng Hà",
+        "url_rewrite_name": "hung-ha",
+        "district_id": 499
+      },
+      {
+        "province_id": 270,
+        "name": "Kiến Xương",
+        "url_rewrite_name": "kien-xuong",
+        "district_id": 500
+      },
+      {
+        "province_id": 270,
+        "name": "Quỳnh Phụ",
+        "url_rewrite_name": "quynh-phu",
+        "district_id": 501
+      },
+      {
+        "province_id": 270,
+        "name": "Thái Thụy",
+        "url_rewrite_name": "thai-thuy",
+        "district_id": 502
+      },
+      {
+        "province_id": 270,
+        "name": "Tiền Hải",
+        "url_rewrite_name": "tien-hai",
+        "district_id": 503
+      },
+      {
+        "province_id": 270,
+        "name": "Vũ Thư",
+        "url_rewrite_name": "vu-thu",
+        "district_id": 504
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "name": "Thái Nguyên",
+    "longitude": 105.825204,
+    "latitude": 21.567156,
+    "url_rewrite_name": "thai-nguyen",
+    "districts": [
+      {
+        "province_id": 271,
+        "name": "Tp. Thái Nguyên",
+        "url_rewrite_name": "tp-thai-nguyen",
+        "district_id": 482
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "name": "Thanh Hoá",
+    "longitude": 105.785182,
+    "latitude": 19.806692,
+    "url_rewrite_name": "thanh-hoa",
+    "districts": [
+      {
+        "province_id": 272,
+        "name": "Tp. Thanh Hóa",
+        "url_rewrite_name": "tp-thanh-hoa",
+        "district_id": 429
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "name": "Tiền Giang",
+    "longitude": 106.299291,
+    "latitude": 10.419005,
+    "url_rewrite_name": "tien-giang",
+    "districts": [
+      {
+        "province_id": 274,
+        "name": "Tp. Mỹ Tho",
+        "url_rewrite_name": "tp-my-tho",
+        "district_id": 271
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Trà Vinh",
+    "longitude": 106.334606,
+    "latitude": 9.951332,
+    "url_rewrite_name": "tra-vinh",
+    "districts": [
+      {
+        "province_id": 275,
+        "name": "Tp. Trà Vinh",
+        "url_rewrite_name": "tp-tra-vinh",
+        "district_id": 421
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "name": "Vĩnh Long",
+    "longitude": 105.958865,
+    "latitude": 10.244844,
+    "url_rewrite_name": "vinh-long",
+    "districts": [
+      {
+        "province_id": 277,
+        "name": "Tp. Vĩnh Long",
+        "url_rewrite_name": "tp-vinh-long",
+        "district_id": 465
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+`
+
+<script src="/Scripts/jquery-1.9.1.min.js"></script>
+<script>
+    function loadComplete() {
+        var redirectUrl = ''
+        redirectUrl = redirectUrl ? redirectUrl : '/';
+        window.location.replace(redirectUrl);
+    }
+    var listUrl = [];
+    listUrl.push("https://www.foody.vn:443/account/validatetoken?token=34EB5265-2FDB-41E6-9B5D-FB3393A436D5&amp;isremember=True");
+    function CallAjax(idx) {
+        if (idx <= listUrl.length - 1) {
+            var url = listUrl[idx];
+            try {
+                $.ajax({
+                    url: url,
+                    type: 'GET',
+                    dataType: 'jsonp',
+                    jsonpCallback: 'callback',
+                });
+            }
+            catch (err) {
+
+            }
+            CallAjax(idx + 1);
+        }
+        else {
+            setTimeout(function () { loadComplete(); }, 1000);
+        }
+    }
+    $(window).load(function () {
+        CallAjax(0);
+    });
+</script>
+
+<div>
+    <img src="https://www.foody.vn:443/account/validatetoken?token=34EB5265-2FDB-41E6-9B5D-FB3393A436D5&isremember=True"
+        style="display:none;" /> <br />
+</div>`
