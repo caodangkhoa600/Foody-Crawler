@@ -7,6 +7,10 @@ const visit = async () => {
 
 const login = async () => {
     try {
+        await client.get('https://foody.vn').then(({ config }) => {
+            console.log(config.jar?.toJSON());
+        });
+
         let config = {
             headers: {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0',
@@ -31,6 +35,10 @@ const login = async () => {
         const src = img.attributes.filter(e => e.name === 'src')[0].value
 
         await client.get(src)
+
+        void client.get('https://foody.vn').then(({ config }) => {
+            console.log(config.jar?.toJSON());
+        });
     } catch (e) {
 
     }

@@ -52,12 +52,16 @@ async function fetchAllCities(cities) {
     const MAX_RETRIES = 3;
 
     for (const city of cities) {
+        if (city.id != 217) {
+            continue;
+        }
         for (const district of city.districts) {
             let page = 1;
             const queried = new Set()
             while (true) {
                 console.log('current page: ', page)
-                const url = `https://www.foody.vn/${city.url_rewrite_name}/dia-diem?ds=Restaurant&vt=row&st=1&page=${page}&provinceId=${city.id}&categoryId=&append=true&dt=${district.district_id}`;
+                // const url = `https://www.foody.vn/${city.url_rewrite_name}/dia-diem?ds=Restaurant&vt=row&st=1&page=${page}&provinceId=${city.id}&categoryId=&append=true&dt=${district.district_id}`;
+                const url = `https://www.foody.vn/__get/Place/HomeListPlace?page=${page}&lat=${city.latitude}&lon=${city.longitude}&count=500&districtId=${district.district_id}&cateId=&cuisineId=&isReputation=&type=1&cityId=${city.id}`;
 
                 const config = {
                     headers: {
@@ -74,7 +78,7 @@ async function fetchAllCities(cities) {
                         response = await client.get(url, config);
                         if (response.status >= 200 && response.status < 300) {
                             const data = response.data;
-                            if (!data.searchItems) {
+                            if (!data.Items) {
                                 throw new Error(`HTTP ${response.status}`);
                             }
                             break;
@@ -94,14 +98,14 @@ async function fetchAllCities(cities) {
 
                 const data = response.data;
 
-                if (!data.searchItems || data.searchItems.length === 0) {
+                if (!data.Items || data.Items.length === 0) {
                     console.log(`done ${district.name}`);
                     break;
                 }
 
                 const dataResult = []
 
-                data.searchItems.forEach(e => {
+                data.Items.forEach(e => {
                     if (!queried.has(e.Id)) {
                         dataResult.push(e)
                         queried.add(e.Id)
