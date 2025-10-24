@@ -170,7 +170,7 @@ async function processFiles() {
     const __filename = fileURLToPath(import.meta.url);
     const __dirname = dirname(__filename);
     const dirPath = path.join(__dirname, '../data');
-    const directoryPath = path.join(dirPath, './restaurant');
+    const directoryPath = path.join(dirPath, './restaurant1');
 
     const files = await fs.readdir(directoryPath);
 
